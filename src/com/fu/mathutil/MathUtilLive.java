@@ -11,6 +11,9 @@ public class MathUtilLive {
         System.out.println("expected: 0! = 1; actual: " + MathUtil.getFactorial(0));
         //MathUtil.getFactorial(-5); nem ngoai le that roi, ai bieu dua cà chon làm chi!!!
         
+        //them code sau lan dau tien làm chuyen ay - code len server 4.34pm ngay 29/8/2022
+        System.out.println("expected: 1! = 1; actual: " + MathUtil.getFactorial(1));
+        System.out.println("expected: 3! = 6; actual: " + MathUtil.getFactorial(3));
         
         
         //ky thuat kiem thu phan mem: uoc luong xem gia tri tra ve cua hàm là gi
